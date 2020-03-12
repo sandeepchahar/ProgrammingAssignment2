@@ -2,11 +2,6 @@
 
 makeCacheMatrix <- function(x = matrix()) 
   ##This function Function makeCacheMatrix gets a matrix as an input, set the value of the matrix,
-  #get the value of the matrix, set the inverse Matrix and get the inverse Matrix. The matrix object
-  #can cache its own object. 
-  
-  #<<- operator is used to assign a value to an object in an environment that is different 
-  #from the current environment 
   
   #take the matrix as an input
   makeCacheMatrix <- function(x = matrix()) {
