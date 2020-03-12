@@ -1,8 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-#cachematrix.R ---> by Neerja 
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) 
   ##This function Function makeCacheMatrix gets a matrix as an input, set the value of the matrix,
